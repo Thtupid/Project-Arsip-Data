@@ -17,4 +17,5 @@ Project Arsip Data adalah sebuah aplikasi yang membantu Anda mengelola dan membu
 **Contributors**
 - Raihan Firdaus Helmy
 - Ridho Illahi Andani
+- Febri Umrotul Khoeriah
 
