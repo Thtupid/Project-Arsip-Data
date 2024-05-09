@@ -15,6 +15,6 @@ Project Arsip Data adalah sebuah aplikasi yang membantu Anda mengelola dan membu
 - Pencarian data yang cepat dan akurat
 
 **Contributors**
-Nama Kontributor 1
-Nama Kontributor 2
-Nama Kontributor 3
+**- Raihan Firdaus Helmy
+- Ridho Illahi Andani**
+
